@@ -22,7 +22,7 @@ localhost:3000/grupo2
 
 Você pode clicar nas URLs caso já tenha o projeto localmente:
 
-![alt text](./assets/thumbprojetochat.png)
+![alt text](./public/assets/thumbprojetochat.png)
 
 <a href="localhost:3000/grupo1" target="_blank">Entrar no grupo 1</a> </br>
 ou
